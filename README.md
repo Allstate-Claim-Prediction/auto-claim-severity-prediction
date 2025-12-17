@@ -8,7 +8,7 @@ Predicting the cost and severity of auto insurance claims using historical data.
 | Name                 | GitHub Handle | Contribution                                                                                                                                   |
 |----------------------|---------------|------------------------------------------------------------------------------------------------------------------------------------------------|
 | Potri Abhisri Barama | @Abhisri436   | Exploratory Data Analysis (EDA), Visualization, Data Cleaning and Feature Engineering (preprocessing pipeline), Neural Network Model Implementation and Evaluation, Documentation and Reproducibility (GitHub, README, run steps), Presentation, Overall Project Coordination |
-| Rajab Begim | @Rajabb4685   | Exploratory Data Analysis (EDA), Visualization, Data Cleaning and Feature Engineering (preprocessing pipeline), Neural Network Model Implementation and Evaluation, Documentation and Reproducibility (GitHub, README, run steps), Presentation, Overall Project Coordination |
+| Rajab Begim | @Rajabb4685   | |
 
 ---
 
